@@ -48,10 +48,14 @@ There is one line of text, $s$.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-26T05:38:30.887Z  
+**Submitted:** 2026-09-29T05:07:32.642Z  
 
 ```c
 #include <stdio.h>
+#include<string.h>
+#include<math.h>
+#include<stdlib.h>
+
 int main() 
 {
 	
